@@ -450,7 +450,7 @@
     "@types/source-list-map" "*"
     source-map "^0.7.3"
 
-"@types/webpack@^4.41.8":
+"@types/webpack@^4.41.22", "@types/webpack@^4.41.8":
   version "4.41.22"
   resolved "https://registry.npm.taobao.org/@types/webpack/download/@types/webpack-4.41.22.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fwebpack%2Fdownload%2F%40types%2Fwebpack-4.41.22.tgz#ff9758a17c6bd499e459b91e78539848c32d0731"
   integrity sha1-/5dYoXxr1JnkWbkeeFOYSMMtBzE=
